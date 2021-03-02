@@ -8,7 +8,6 @@ function playSound(e) {
 	audio.play();
 	key.classList.add('playing');
 
-	//console.log(audio);
 	//console.log(key);	
 }
 
